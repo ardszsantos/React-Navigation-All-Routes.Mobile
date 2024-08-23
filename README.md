@@ -60,7 +60,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 3. **Execute o Projeto**:
 
    ```bash
-   expo start
+   npx expo start
    ```
 
 4. **Na execução**:
